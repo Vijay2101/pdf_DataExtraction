@@ -1,12 +1,7 @@
-
-
+Gunicorn
 Flask==3.0.3
-
 pandas==2.2.2
-
 pdfplumber==0.11.2
 pillow==10.4.0
-
 tabula-py==2.9.3
-
 Werkzeug==3.0.3
